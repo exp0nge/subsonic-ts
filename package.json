@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "eslint": "^4.19.1",
+    "tslint": "^5.9.1"
+  },
+  "name": "subsonic-ts",
+  "version": "0.0.1",
+  "description": "Subsonic client in TypeScipt",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "tsc && node ./dist/main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/exp0nge/subsonic-ts.git"
+  },
+  "author": "exp0nge",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/exp0nge/subsonic-ts/issues"
+  },
+  "homepage": "https://github.com/exp0nge/subsonic-ts#readme"
+}
